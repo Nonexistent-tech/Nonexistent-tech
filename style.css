@@ -1,0 +1,77 @@
+header{
+background-image: url("");
+text-align: center;
+padding: 10px;
+
+}
+body {
+    background-image: url("https://learnful.ca/sites/default/files/h5p/content/13/images/file-5dc1a3a570d6a.gif");
+    background-repeat:  repeat;
+    background-position: top;
+    background-attachment: scroll;
+    color: rgb(235, 198, 12);
+    text-align: center;
+    
+   
+}
+
+h1 {
+    color: #00ffff;
+
+}
+
+h2 {
+    color: #00ffff;
+  text-align: center;
+
+}
+h3 {
+    color: rgb(21, 249, 5);
+}
+
+a:visited {
+    color: rgb(235, 198, 12);
+}
+    a:link {
+        color: rgb(235, 198, 12);
+    }
+    a {
+        text-decoration: none;
+    }
+.link-box {
+    background-color:  rgba(0, 0, 0, 0.6);
+    border: 2px solid #00ffff;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+
+
+
+
+
+}
+.link-box a {
+    color: #00ffff;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.link-box a:hover {
+    color: #00ffff;
+}
+.text-box {
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 2px solid #00ffff;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 40px auto;
+    width: 85%;
+    max-width: 600px;
+    text-align: center;
+}
+.text-box h1,.text-box p {
+    color: #ffffff;
+}
